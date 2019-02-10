@@ -12,3 +12,9 @@ Flexbox
 
 Media queries 
 
+## External resources
+
+Google Font 
+
+Font Awesome 
+
